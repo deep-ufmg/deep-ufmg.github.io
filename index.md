@@ -15,8 +15,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ## Calendário 
 
-TODO
-[aqui](https://homepages.dcc.ufmg.br/~assuncao/AAP/Cronograma.pdf)
+[Calendário de aulas e provas](https://homepages.dcc.ufmg.br/~assuncao/AAP/Cronograma.pdf)
 
 <a name="collab"/>
 
@@ -35,3 +34,7 @@ e `pytorch`. Para instalar um pacote no colab use o pip. Por exemplo, o código 
 ```
 
 <a name="projeto"/>
+
+## Projetos Práticos
+
+Projetos práticos - notebooks python (https://github.com/deep-ufmg/praticas/tree/master/01-Modulo)
