@@ -57,6 +57,6 @@ e `pytorch`. Para instalar um pacote no colab use o pip. Por exemplo, o código 
 
 ## Projetos Práticos
 
-[Projetos práticos - notebooks python] (https://github.com/deep-ufmg/praticas/tree/master/01-Modulo)
+[Projetos práticos - notebooks python](https://github.com/deep-ufmg/praticas/tree/master/01-Modulo)
 
 
