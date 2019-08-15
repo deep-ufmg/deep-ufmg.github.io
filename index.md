@@ -1,5 +1,5 @@
 |-------------------------|---------------------------|----------------------------------|----------------------|
-| [Logística](#logistica) | [Calendário](#calendario) |  [Executanto Notebooks](#collab) | [Projetos Práticos](#projeto) |
+| [Logística](#logistica) | [Calendário](#calendario) |  [Executanto Notebooks](#collab) | [Projetos Práticos](#projeto) | [Slides](#slides)
 
 # Aprendizado Profundo
 
@@ -57,6 +57,8 @@ e `pytorch`. Para instalar um pacote no colab use o pip. Por exemplo, o código 
 
 ## Projetos Práticos
 
-[Projetos práticos - notebooks python] (https://github.com/deep-ufmg/praticas/tree/master/01-Modulo)
+[Projetos práticos - notebooks python](https://github.com/deep-ufmg/praticas/tree/master/01-Modulo)
 
+## Slides das aulas 
 
+[Nesta página estão os slides e listas de exercícios teóricos](https://homepages.dcc.ufmg.br/~assuncao/AAP/) 
