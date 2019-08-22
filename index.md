@@ -35,7 +35,7 @@ Este projeto-artigo valerá 10 pontos extra na nota apenas para os alunos de pro
 
 ## Calendário 
 
-[Calendário de aulas e provas](https://homepages.dcc.ufmg.br/~assuncao/AAP/Cronograma.pdf)
+[Calendário de aulas e provas](https://docs.google.com/spreadsheets/d/1bcDCZrOcAZxdpUVX4386m_vTmEKDK2ojoZ73eRHSOqk/edit?usp=sharing)
 
 <a name="collab"/>
 
