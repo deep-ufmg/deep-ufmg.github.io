@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Aprendizado Profundo - DCC/UFMG
+description: Material da disciplina de aprendizado profundo (deep learning) sendo ofertada pela primeira vez no DCC/UFMG. Pedimos um pouco de paciência, this is a work in progress.
+logo: logo.png
+show_downloads: false
