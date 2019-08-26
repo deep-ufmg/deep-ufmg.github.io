@@ -57,6 +57,8 @@ Este projeto-artigo valerá 10 pontos extra na nota apenas para os alunos de pro
 
 ### Módulo 06 - Redes Adversárias Generativas e DL-Research 🎨
 
+### Listas e Site Antigo
+
 [Nesta página estão os slides e listas de exercícios teóricos](https://homepages.dcc.ufmg.br/~assuncao/AAP/)
 
 
