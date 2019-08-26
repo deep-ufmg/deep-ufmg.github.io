@@ -36,15 +36,18 @@ Este projeto-artigo valerá 10 pontos extra na nota apenas para os alunos de pro
 ## Slides das aulas 
 
 ### Módulo 01 - Linear, Logística, Perceptron e Redes Neurais from Scratch 📈
-1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2001.pdf
-1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2002.pdf
-1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2003.pdf
-1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2001.pdf
-1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2002.pdf
-1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2003.pdf
-1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2004.pdf
+
+1. [Motivação e Perceptron](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2001.pdf)
+1. [Logística from Scratch](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2002.pdf)
+1. [Verossimilhança e Perda](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2003.pdf)
+1. [Backpropagation from Scratch](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2001.pdf)
 
 ### Módulo 02 - Aprendendo a Aprender. Algoritmos de Otimização e Regularização 🧠
+
+1. [Funções de Ativação e Generalização](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2002.pdf)
+1. [Otimização - Parte 01](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2003.pdf)
+1. [Otimização - Parte 02](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2004.pdf)
+
 
 ### Módulo 03 - Aritmética e Redes Convolucionais 🌀
 
