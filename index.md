@@ -33,6 +33,30 @@ Este projeto-artigo valerá 10 pontos extra na nota apenas para os alunos de pro
 
 <a name="calendario"/>
 
+## Slides das aulas 
+
+### Módulo 01 - Linear, Logística, Perceptron e Redes Neurais from Scratch 📈
+1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2001.pdf
+1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2002.pdf
+1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2001%20-%20Aula%2003.pdf
+1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2001.pdf
+1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2002.pdf
+1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2003.pdf
+1. https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2004.pdf
+
+### Módulo 02 - Aprendendo a Aprender. Algoritmos de Otimização e Regularização 🧠
+
+### Módulo 03 - Aritmética e Redes Convolucionais 🌀
+
+### Módulo 04 - Aplicações de CNNs. Visão e Autoencoders 👀
+
+### Módulo 05 - Redes recorrentes e aprendizado com texto/sequências 🏃
+
+### Módulo 06 - Redes Adversárias Generativas e DL-Research 🎨
+
+[Nesta página estão os slides e listas de exercícios teóricos](https://homepages.dcc.ufmg.br/~assuncao/AAP/)
+
+
 ## Calendário 
 
 [Calendário de aulas e provas](https://docs.google.com/spreadsheets/d/1bcDCZrOcAZxdpUVX4386m_vTmEKDK2ojoZ73eRHSOqk/edit?usp=sharing)
@@ -57,8 +81,4 @@ e `pytorch`. Para instalar um pacote no colab use o pip. Por exemplo, o código 
 
 ## Projetos Práticos
 
-[Projetos práticos - notebooks python](https://github.com/deep-ufmg/praticas/tree/master/01-Modulo)
-
-## Slides das aulas 
-
-[Nesta página estão os slides e listas de exercícios teóricos](https://homepages.dcc.ufmg.br/~assuncao/AAP/) 
+[Projetos práticos - notebooks python](https://github.com/deep-ufmg/praticas/)
