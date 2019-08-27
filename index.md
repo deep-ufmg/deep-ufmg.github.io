@@ -44,6 +44,7 @@ Este projeto-artigo valerá 10 pontos extra na nota apenas para os alunos de pro
 
 ### Módulo 02 - Aprendendo a Aprender. Algoritmos de Otimização e Regularização 🧠
 
+1. [Grafos Computacionais](https://drive.google.com/open?id=10FlYMX6exbAYVpiD29U_OycfTE6SP2OyxncG8WGgrKY)
 1. [Funções de Ativação e Generalização](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2002.pdf)
 1. [Otimização - Parte 01](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2003.pdf)
 1. [Otimização - Parte 02](https://homepages.dcc.ufmg.br/~assuncao/AAP/Sem%2002%20-%20Aula%2004.pdf)
