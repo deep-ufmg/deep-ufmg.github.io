@@ -31,7 +31,7 @@ Isto totaliza os 100 pontos da disciplina.
 Ao final do primeiro mês, os alunos interessados poderão submeter uma proposta de projeto prático em duas páginas. Apenas 10 projetos serão selecionados pelos professores para orientação personalizada até o final do semestre. O aluno deverá entregar um relatório final na forma de artigo científico. O projeto poderá ser feito em grupo de até 3 alunos. 
 Este projeto-artigo valerá 10 pontos extra na nota apenas para os alunos de projetos selecionados. 
 
-<a name="calendario"/>
+<a name="slides"/>
 
 ## Slides das aulas 
 
@@ -61,7 +61,6 @@ Este projeto-artigo valerá 10 pontos extra na nota apenas para os alunos de pro
 ### Listas e Site Antigo
 
 [Nesta página estão os slides e listas de exercícios teóricos](https://homepages.dcc.ufmg.br/~assuncao/AAP/)
-
 
 ## Calendário 
 
