@@ -52,8 +52,10 @@ Este projeto-artigo valerá 10 pontos extra na nota apenas para os alunos de pro
 
 ### Módulo 03 - Aritmética e Redes Convolucionais 🌀
 
-1. [CNNs Introdução e Histórico](https://docs.google.com/presentation/d/1liI-SMuHKs4jEyKhR9VCL4VtQ_cWPch25U3pw9RPjT8/edit?usp=sharing)
-1. [CNNs Convoluções](https://docs.google.com/presentation/d/1ufxzsYkIMO6bmtxJeNnwKeO4PHEJC70oZ9W7anrOV4Q/edit?usp=sharing)
+1. [CNNs Introdução e Histórico](https://docs.google.com/presentation/d/1liI-SMuHKs4jEyKhR9VCL4VtQ_cWPch25U3pw9RPjT8)
+1. [CNNs Convoluções](https://docs.google.com/presentation/d/1ufxzsYkIMO6bmtxJeNnwKeO4PHEJC70oZ9W7anrOV4Q)
+1. [CNNs Estudos de Caso (1)](https://docs.google.com/presentation/d/1Kqorus6Mn_MkVz6LYm6g1QtNvk5Wfjxj_iWNQVoz6Bg/)
+1. [CNNs Estudos de Caso (2)](https://docs.google.com/presentation/d/1sVGOR6izZm2ky-nbXSmS2JNG0n6XZwqojntftRD3DGQ)
 
 ### Módulo 04 - Aplicações de CNNs. Visão e Autoencoders 👀
 
