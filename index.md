@@ -1,5 +1,5 @@
-|-------------------------|----------------------------------|
-| [Logística](#logistica) | [Calendário](#calendario)        |
+|-------------------------|----------------------------------|----------------------------------|
+| [Logística](#logistica) | [Avaliação](#aval)        | [Calendário](#calendario)        |
 
 # Aprendizado Profundo
 
@@ -19,6 +19,8 @@ Esta disciplina será lecionada por 5 professores do DCC, cada um cuidando de ma
 - Douglas Macharet (aplicações em visão e robótica)
 
 O curso inicia-se no dia 24 de agosto, uma quarta-feira, e será encerrado no dia 14 de Dezembro. Ao longo do curso teremos 5 provas, ao final de cada uma da seção de cada professor, cada uma delas valendo 12 pontos. A prova vai cobrar o domínio da teoria e do uso prático dos modelos de deep learning aprendido nos exercícios práticos. Haverá um conjunto de exercícios teóricos e práticos que não serão avaliados, sendo utilizados para estudos para as provas. 
+
+<a name="aval"/>
 
 ## Avaliação
 
