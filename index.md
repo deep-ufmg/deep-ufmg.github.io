@@ -1,5 +1,5 @@
 |-------------------------|----------------------------------|----------------------------------|
-| [Logística](#logistica) | [Avaliação](#aval)        | [Calendário](#calendario)        |
+| [Logística](#logistica) | [Avaliação](#aval)               | [Calendário](#cal)               |
 
 # Aprendizado Profundo
 
@@ -48,14 +48,16 @@ Cada professor irá realizar uma prova com o assunto da sua matéria. Tal prova 
 #### Entregas do Projeto
 
   1. 13/11/2022 - Revisão dos trabalhos relacionados em formato de survey - 10 pts
-    * 4 ou 5 páginas, com uma introdução
-    * Inserir o seu problema, além do fator inovador do mesmo
-    * Pense que isso será a seção Introdução (1 pg para 1pg e meia) e trabalhos relacionados do seu artigo. Apenas queremos um trabalhos relacionados bem detalhado.
-    * Formato: [ICML2021 Template - Overleaf, Online LaTeX Editor](https://pt.overleaf.com/latex/templates/icml2021-template/dsftnbmjgyhv)
+      1. 4 ou 5 páginas, com uma introdução
+      1. Inserir o seu problema, além do fator inovador do mesmo
+      1. Pense que isso será a seção Introdução (1 pg para 1pg e meia) e trabalhos relacionados do seu artigo. Apenas queremos um trabalhos relacionados bem detalhado.
+      1. Formato: [ICML2021 Template - Overleaf, Online LaTeX Editor](https://pt.overleaf.com/latex/templates/icml2021-template/dsftnbmjgyhv)
   1. 18/12/2022 - Relatório em formato de artigo do ICML - 35 pts
-    * Até 10 páginas com a revisão acima. Ou seja, imagine que você em entre 5 e 6 pgs a mais para mostrar seu projeto
-    * Inglês ou Português
-    * Formato: [ICML2021 Template - Overleaf, Online LaTeX Editor](https://pt.overleaf.com/latex/templates/icml2021-template/dsftnbmjgyhv)
+      1. Até 10 páginas com a revisão acima. Ou seja, imagine que você em entre 5 e 6 pgs a mais para mostrar seu projeto
+      1. Inglês ou Português
+      1. Formato: [ICML2021 Template - Overleaf, Online LaTeX Editor](https://pt.overleaf.com/latex/templates/icml2021-template/dsftnbmjgyhv)
+
+<a name="cal"/>
 
 ## Calendário 
 
