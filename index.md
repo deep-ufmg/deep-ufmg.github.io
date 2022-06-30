@@ -11,7 +11,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 **Sala a definir**
 
-Esta disciplina será lecionada por 5 professores do DCC, cada um cuidando de 3 semanas seguidas de material: 
+Esta disciplina será lecionada por 5 professores do DCC, cada um cuidando de mais ou menos 3 semanas seguidas de material: 
 - Gabriel Coutinho (redes neurais multi-camadas)
 - Pedro Olmo (redes convolucionais)
 - Renato Assunção (generative adversarial networks)
@@ -30,11 +30,11 @@ Isto totaliza os 100 pontos da disciplina.
 
 Cada professor irá realizar uma prova com o assunto da sua matéria. Tal prova terá duração de 1:40h (uma hora e quarenta) após o início da mesma. A prova será realizada em sala de aula!
 
-  1. 19/09/2022 - 10 pts
-  1. 10/10/2022 - 10 pts
-  1. 07/11/2022 - 10 pts
-  1. 28/11/2022 - 10 pts
-  1. 14/12/2022 - 10 pts
+  1. 19/09/2022 - 12 pts
+  1. 10/10/2022 - 12 pts
+  1. 07/11/2022 - 12 pts
+  1. 28/11/2022 - 12 pts
+  1. 14/12/2022 - 12 pts
     
 ### Projeto
 
