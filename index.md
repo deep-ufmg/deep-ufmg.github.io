@@ -9,7 +9,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ## Logística de Aulas 
 
-**Sala a definir**
+**Sala 2014 do ICEX Terça e Quinta 'as 9:25**
 
 Esta disciplina será lecionada por 5 professores do DCC, cada um cuidando de mais ou menos 3 semanas seguidas de material: 
 - Gabriel Coutinho (redes neurais multi-camadas)
