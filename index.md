@@ -1,64 +1,63 @@
-|-------------------------|----------------------------------|----------------------------------|
-| [Logística](#logistica) | [Avaliação](#aval)               | [Calendário](#cal)               |
+---
+layout: page
+title: DeepUFMG
+nav_exclude: true
+seo:
+  type: Course
+  name: Introdução ao Aprendizado Profundo (UFMG)
+---
 
-# Aprendizado Profundo
+# {{ site.tagline }}
+{: .mb-2 }
+{{ site.description }}
+{: .fs-6 .fw-300 }
+
+---
+
+{: .no_toc .mb-2 }
+
+![](https://raw.githubusercontent.com/deep-ufmg/deep-ufmg.github.io/refs/heads/master/logo.png)
+
+## Ementa
 
 Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning).
 
-<a name="logistica"/>
+## Logística
 
-## Logística de Aulas 
-
-**Sala 2014 do ICEX Terça e Quinta 'as 9:25**
-
-Esta disciplina será lecionada por 5 professores do DCC, cada um cuidando de mais ou menos 3 semanas seguidas de material: 
-- Gabriel Coutinho (redes neurais multi-camadas)
-- Pedro Olmo (redes convolucionais)
-- Renato Assunção (generative adversarial networks)
-- Flavio Figueiredo (redes recorrentes)
-- Douglas Macharet (aplicações em visão e robótica)
-
-O curso inicia-se no dia 24 de agosto, uma quarta-feira, e será encerrado no dia 14 de Dezembro. Ao longo do curso teremos 5 provas, ao final de cada uma da seção de cada professor, cada uma delas valendo 12 pontos. A prova vai cobrar o domínio da teoria e do uso prático dos modelos de deep learning aprendido nos exercícios práticos. Haverá um conjunto de exercícios teóricos e práticos que não serão avaliados, sendo utilizados para estudos para as provas. 
-
-<a name="aval"/>
+O curso inicia-se no dia 18 de março, uma terça-feira, e será encerrado no fim de Junho (dependendo do andar das aulas). Ao longo do curso teremos duas provas, cada uma delas valendo 25 pontos. A prova vai cobrar o domínio da teoria e do uso prático dos modelos de deep learning aprendido nos exercícios práticos. Haverá um conjunto de práticos valendo 20 pontos, sendo utilizados para estudos.
 
 ## Avaliação
 
-Além dos 60 pontos de prova, um projeto valendo quarenta pontos será requisitado dos discentes. Tal projeto deve apresentar uma revisão de literatura, que vale 10 pontos. Por fim, os 30 pontos restantes são do desenvolvimebto do projeto.
+Além dos 50 pontos de prova e dos 20 pontos de listas, um projeto valendo 30 pontos será requisitado dos discentes. Tal projeto será de tema fixo.
 
-Isto totaliza os 100 pontos da disciplina. 
+Isto totaliza os 100 pontos da disciplina.
 
 ### Provas
 
-Cada professor irá realizar uma prova com o assunto da sua matéria. Tal prova terá duração de 1:40h (uma hora e quarenta) após o início da mesma. A prova será realizada em sala de aula!
+Cada prova terá duração de 1:40h (uma hora e quarenta) após o início da mesma. A prova será realizada em sala de aula!
 
-  1. 19/09/2022 - 12 pts
-  1. 10/10/2022 - 12 pts
-  1. 07/11/2022 - 12 pts
-  1. 28/11/2022 - 12 pts
-  1. 14/12/2022 - 12 pts
-    
+- 15/05/2025 - 25 pts
+- 26/06/2025 - 25 pts
+
 ### Projeto
 
-  1. Grupos de 3 ou 4 alunos
-  2. Pelo menos duas figuras de resultados
-  3. Pode ser focado em aplicações de aprendizado profundo para sua pesquisa
-  4. Ou em algo inovador de aprendizado profundo
+- Grupos de 3 ou 4 alunos
+- Pode ser entregue em formato de notebook renderizado
 
-#### Entregas do Projeto
+### Entregas do Projeto (30 pts)
 
-  1. 13/11/2022 - Revisão dos trabalhos relacionados em formato de survey - 10 pts
-      1. 4 ou 5 páginas, com uma introdução
-      1. Inserir o seu problema, além do fator inovador do mesmo
-      1. Pense que isso será a seção Introdução (1 pg para 1pg e meia) e trabalhos relacionados do seu artigo. Apenas queremos um trabalhos relacionados bem detalhado.
-      1. Formato: [ICML2021 Template - Overleaf, Online LaTeX Editor](https://pt.overleaf.com/latex/templates/icml2021-template/dsftnbmjgyhv)
-  1. 18/12/2022 - Relatório em formato de artigo do ICML - 35 pts
-      1. Até 10 páginas com a revisão acima. Ou seja, imagine que você em entre 5 e 6 pgs a mais para mostrar seu projeto
-      1. Inglês ou Português
-      1. Formato: [ICML2021 Template - Overleaf, Online LaTeX Editor](https://pt.overleaf.com/latex/templates/icml2021-template/dsftnbmjgyhv)
+- 31/05/2025 - Entrevista inicial com o monitor para validar ideia da solução.
+- 01/07/2025 - Notebook Jupyter Renderizado (Em HTML) no Moodle.
 
-<a name="cal"/>
+## Livros
 
-## Calendário 
+Em ordem de preferência.
 
-<iframe width="100%" height="860" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0ky2yLl7ivfFmEAUBiE3-39r8ULtJD5PxhNKlijqrGwYRididtMfG60QR_s2w7Intm6189mzs2iS/pubhtml?widget=true&amp;headers=false"></iframe>
+1. Deep Learning (Bishop). [Online](https://www.bishopbook.com/)
+1. Dive Into Deep [Online](https://d2l.ai)
+1. Probabilistic Machine Learning (poucos capítulos do Livro 1, I, II, e III). [Online](probml.github.io)
+1. Deep Learning (Goodfellow et al.): [Online](https://www.deeplearningbook.org/)
+
+[Logística]: #logistica
+[Avaliação]: #avaliacao
+[Livros]: #livros
