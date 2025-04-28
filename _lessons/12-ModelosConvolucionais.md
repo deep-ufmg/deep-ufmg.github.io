@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Modelos convolucionais - Parte I
+nav_order: 12
 ---
 
 # Modelos convolucionais - Parte I

@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Redes Neurais e Backpropagation
+nav_order: 6
 ---
 
 # Redes Neurais e Backpropagation

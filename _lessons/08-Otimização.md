@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Otimização
+nav_order: 8
 ---
 
 # Otimização

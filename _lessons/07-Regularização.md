@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Regularização
+nav_order: 7
 ---
 
 # Regularização

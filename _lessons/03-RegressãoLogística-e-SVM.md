@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Regressão Logística e SVM
+nav_order: 3
 ---
 
 # Regressão Logística e SVM

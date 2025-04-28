@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Perceptron e Ativação
+nav_order: 5
 ---
-
-# Perceptron e Logistíca
+# Perceptron e funções de Ativação
 
 > - Perceptrons
 > - Funções de Ativação
@@ -249,7 +250,7 @@ plt.show()
 
     <>:22: SyntaxWarning: invalid escape sequence '\s'
     <>:22: SyntaxWarning: invalid escape sequence '\s'
-    /tmp/ipykernel_16204/4000807902.py:22: SyntaxWarning: invalid escape sequence '\s'
+    /tmp/ipykernel_17101/4000807902.py:22: SyntaxWarning: invalid escape sequence '\s'
       plt.ylabel('$\sigma_c(x)$')
 
 

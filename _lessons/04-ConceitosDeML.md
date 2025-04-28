@@ -1,8 +1,10 @@
 ---
 layout: page
+title: Conceitos Básicos de Machine Learning
+nav_order: 4
 ---
 
-# Lista Teórica 04 - Conceitos Básicos de Machine Learning
+# Conceitos Básicos de Machine Learning
 
 > - Conjuntos de treino, teste e validação
 > - Overfitting e Underfitting

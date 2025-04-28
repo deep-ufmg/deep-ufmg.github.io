@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Regressão Linear
+nav_order: 2
 ---
 
 
@@ -10,7 +12,9 @@ layout: page
 > Algumas questões dessa lista são bastante desafiadoras! Não se desanime se não conseguir respondê-las.
 
 
-## 1. Suponha que temos alguns dados $x_1, \ldots, x_n \in \mathbb{R}$. Nosso objetivo é encontrar uma constante $b$ tal que $\sum_i (x_i - b)^2$ seja minimizada.
+## Q1 
+
+Suponha que temos alguns dados: $x_1, \ldots, x_n \in \mathbb{R}$. Nosso objetivo é encontrar uma constante $b$ tal que $\sum_i (x_i - b)^2$ seja minimizada.
 
    1. Encontre uma solução analítica para o valor ótimo de $b$.
    2. Como este problema e sua solução se relacionam com a distribuição normal?
@@ -90,7 +94,9 @@ Para se convencer da validade desse resultado, derive a distância absoluta com 
 
 
 
-## 2. Lembre-se de que uma das condições para que o problema de regressão linear seja solucionável é que a matriz de design $\mathbf{X}^\top \mathbf{X}$ tenha posto completo.
+## Q2 
+
+Lembre-se de que uma das condições para que o problema de regressão linear seja solucionável é que a matriz de design $\mathbf{X}^\top \mathbf{X}$ tenha posto completo.
 
    1. O que acontece se isso não for o caso?
    2. Como você poderia corrigir isso? O que acontece se você adicionar uma pequena quantidade de ruído Gaussiano independente, coordenada por coordenada, a todas as entradas de $\mathbf{X}$?
@@ -124,7 +130,9 @@ onde $I$ é a matriz identidade, e $n$ o número de amostras.
 
 O gradiente descendente não é afetado, visto que ele não depende da inversibilidade da matriz. O fato do posto não ser completo, no entanto, indica que o espaço contém direções redundantes, o que pode dificultar a convergência do SGD.
 
-## 7. O que acontece se você quiser usar regressão para estimar realisticamente preços de casas ou ações?
+## Q3 
+
+O que acontece se você quiser usar regressão para estimar realisticamente preços de casas ou ações?
 
    1. Mostre que a suposição de ruído Gaussiano aditivo, isto é, $y = \mathbf{X}\boldsymbol{\beta} + \epsilon$, com $\epsilon \sim \mathcal{N}(0, \sigma^2)$, não é apropriada.
 Dica: Considere se é possível termos preços negativos devido ao ruído. Como as flutuações nos preços realmente se comportam?
@@ -158,7 +166,9 @@ Existe um incremento mínimo que o preço de uma ação pode ter (1 centavo por 
 
 > É claro, para ações mais caras o cenário real também é discreto, mas nas penny stocks, esse variação mínima representa um percentual grande do preço, e é bem mais problemática. Para ações mais caras, podemos assumir que os dados são contínuos na prática.
 
-## 8. Suponha que queremos usar regressão para estimar o número de maçãs vendidas em uma mercearia.
+## Q4 
+
+Suponha que queremos usar regressão para estimar o número de maçãs vendidas em uma mercearia.
 
    1. Quais são os problemas com um modelo de ruído aditivo Gaussiano? Dica: você está vendendo maçãs, não petróleo.
    2. A **distribuição de Poisson** captura distribuições sobre contagens. Ela é dada por
@@ -250,9 +260,3 @@ $$NLL = \sum_i(e^{\mu_i} - k_i \mu_i)$$
 Referências:
 
 https://d2l.ai/chapter_linear-regression/linear-regression.html
-
-
-```python
-#In: 
-
-```

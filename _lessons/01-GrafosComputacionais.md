@@ -1,8 +1,10 @@
 ---
 layout: page
+title: Grafos Computacionais
+nav_order: 1
 ---
 
-# Grafos Computacinais
+# Grafos Computacionais
 
 > Revisão de geometria básica (retas)
 >
@@ -324,7 +326,7 @@ $
 
 b. Preencha o grafo computacional para $x=-2, y=5, z=-4$ e $\frac{\partial L}{\partial f} = 1$
 
-$
+$$
 \frac{\partial f}{\partial q} = z = -4
 $$
 

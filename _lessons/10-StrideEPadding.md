@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Stride e Padding
+nav_order: 10
 ---
 
 # Stride e Padding

@@ -1,7 +1,9 @@
 ---
 layout: page
----
+title: Convoluções
+nav_order: 9
 
+---
 # Convoluções
 
 ### Exercício 1

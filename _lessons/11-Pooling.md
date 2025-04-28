@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Pooling
+nav_order: 11
 ---
 
 # Pooling
