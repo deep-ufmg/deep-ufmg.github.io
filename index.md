@@ -24,11 +24,11 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ## Logística
 
-O curso inicia-se no dia 18 de março, uma terça-feira, e será encerrado no fim de Junho (dependendo do andar das aulas). Ao longo do curso teremos duas provas, cada uma delas valendo 25 pontos. A prova vai cobrar o domínio da teoria e do uso prático dos modelos de deep learning aprendido nos exercícios práticos. Haverá um conjunto de práticos valendo 20 pontos, sendo utilizados para estudos.
+O curso inicia-se no dia 12 de agosto, uma terça-feira, e será encerrado no começo de Dezembro (dependendo do andar das aulas). Ao longo do curso teremos três provas, cada uma delas valendo 24 pontos. A prova vai cobrar o domínio da teoria e do uso prático dos modelos de deep learning aprendido nos exercícios práticos.
 
 ## Avaliação
 
-Além dos 50 pontos de prova e dos 20 pontos de listas, um projeto valendo 30 pontos será requisitado dos discentes. Tal projeto será de tema fixo.
+Além dos 72 pontos de prova, um projeto valendo 28 pontos será requisitado dos discentes.
 
 Isto totaliza os 100 pontos da disciplina.
 
@@ -36,18 +36,19 @@ Isto totaliza os 100 pontos da disciplina.
 
 Cada prova terá duração de 1:40h (uma hora e quarenta) após o início da mesma. A prova será realizada em sala de aula!
 
-- 15/05/2025 - 25 pts
-- 26/06/2025 - 25 pts
+- 02/09/2025 - 24 pts
+- 02/10/2025 - 24 pts
+- 25/11/2025 - 24 pts
 
 ### Projeto
 
 - Grupos de 3 ou 4 alunos
-- Pode ser entregue em formato de notebook renderizado
+- Entregue em Formato de Artigo ICML
 
-### Entregas do Projeto (30 pts)
+### Entregas do Projeto (28 pts)
 
-- 31/05/2025 - Entrevista inicial com o monitor para validar ideia da solução.
-- 01/07/2025 - Notebook Jupyter Renderizado (Em HTML) no Moodle.
+- 02/10/2025 - Entrevista inicial com o monitor para validar ideia da solução.
+- 02/12/2025 - Artigo formato ICML
 
 ## Livros
 
